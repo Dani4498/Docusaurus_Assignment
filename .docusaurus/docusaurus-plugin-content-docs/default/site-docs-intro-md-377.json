@@ -1,0 +1,24 @@
+{
+  "id": "Intro",
+  "title": "Welcome to the WhiteCube",
+  "description": "P",
+  "source": "@site/docs/Intro.md",
+  "sourceDirName": ".",
+  "slug": "/Intro",
+  "permalink": "/docs/Intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Dani4498/Docusaurus-Assignment/docs/Intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/Homepage"
+  },
+  "next": {
+    "title": "About WhiteCube Inc",
+    "permalink": "/docs/about"
+  }
+}

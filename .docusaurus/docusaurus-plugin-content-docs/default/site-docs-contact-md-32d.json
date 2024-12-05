@@ -1,0 +1,20 @@
+{
+  "id": "contact",
+  "title": "Contact Us",
+  "description": "We are currently offering a free consultation for all those interested in our service. If you are interested in working with us, please contact us:",
+  "source": "@site/docs/contact.md",
+  "sourceDirName": ".",
+  "slug": "/contact",
+  "permalink": "/docs/contact",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Dani4498/Docusaurus-Assignment/docs/contact.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About WhiteCube Inc",
+    "permalink": "/docs/about"
+  }
+}

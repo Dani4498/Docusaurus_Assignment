@@ -1,0 +1,24 @@
+{
+  "id": "about",
+  "title": "About WhiteCube Inc",
+  "description": "WhiteCube Inc was established in 2009 in Toronto, Ontario. Surrounded by such art and culture, we were inspired! Our goal is to assist institutions in creating exhibitions with the technology you have available. We are trained to create exhibtions with as little or as much technology as possible including projected exhibitions.",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/docs/about",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Dani4498/Docusaurus-Assignment/docs/about.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/Homepage"
+  },
+  "next": {
+    "title": "Contact Us",
+    "permalink": "/docs/contact"
+  }
+}
